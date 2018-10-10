@@ -29,9 +29,9 @@
   <li class="nav-item">
     <a class="nav-link active" href="third index.html">third index</a>
 	  <li class="nav-item">
-    <a class="nav-link active" href="../../Templates/fourth index.html">fourth index</a>
-		  <li class="nav-item">
-    <a class="nav-link active" href="../../Templates/fifth index.html">fifth index</a>
+    <a class="nav-link active" href="fourth index.html">fourth index</a>
+  <li class="nav-item">
+    <a class="nav-link active" href="fifth index.html">fifth index</a>
   </li>
   </li>
   </li>
